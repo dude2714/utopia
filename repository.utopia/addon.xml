@@ -16,9 +16,15 @@
     <platform>all</platform>
     <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
     <assets>
-      <icon>icon.png</icon>
+      <icon>icon.jpg</icon>
       <fanart>fanart.jpg</fanart>
     </assets>
   </extension>
 </addon>
+
+
+
+
+
+
 
